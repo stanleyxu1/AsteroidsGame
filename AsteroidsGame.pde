@@ -17,8 +17,7 @@ public void draw()
   for (int i=0; i<hi.length; i++) {
     noStroke();
     hi[i].show();
-    System.out.println(hello.getDirection());
-    System.out.println(hello.getSpeed());
+
   }
   hello.show();
     
