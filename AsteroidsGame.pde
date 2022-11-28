@@ -12,7 +12,6 @@ public void setup()
 }
 public void draw()
 {
-  System.out.println(hello.getSpeed());
   background(0);
 
   for (int i=0; i<hi.length; i++) {
