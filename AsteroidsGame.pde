@@ -78,13 +78,13 @@ public void draw()
  
    if (wIsPressed == true && dIsPressed == true) {
 
-    hello.accelerate(.1);
+   
     hello.turn(3);
     hello.move();
   }
   if (wIsPressed == true && aIsPressed == true) {
 
-    hello.accelerate(.1);
+   
     hello.turn(-3);
     hello.move();
   }
